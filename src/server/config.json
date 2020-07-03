@@ -1,0 +1,7 @@
+{
+    "key": 120,
+    "ip": "localhost",
+    "port": 8083,
+    "whitelistIPs": null,
+    "useNgrok": false
+}
